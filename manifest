@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.2
+description: This module allows to access the iphone's clipboard using Titanium mobile iphone application
+author: Xavier Lacot
+license: MIT
+copyright: Copyright (c) 2011 by Xavier Lacot
+
+
+# these should not be edited
+name: titanium.clipboard
+moduleid: com.xavcc.Clipboard
+guid: fffa2289-62e5-4eb6-b418-080aa1f5a231
+platform: iphone
+minsdk: 1.5.1
